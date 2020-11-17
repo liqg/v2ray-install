@@ -1,3 +1,5 @@
+## install
+
 ```shell
 bash install.sh -l v2ray-linux-64.zip 
 
